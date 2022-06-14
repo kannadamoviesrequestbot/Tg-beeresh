@@ -1,2 +1,2 @@
 # TG-MegaBot
-A Modular All In One Telegram Bot (Rename, Trim, Cut, Screenshot, Url Uploader, Youtube, FFMPEG, etc)
+A Modular All In One Telegram Bot (https://heroku.com/deploy?template=https://github.com/kannadamoviesrequestbot/Tg-beeresh)
