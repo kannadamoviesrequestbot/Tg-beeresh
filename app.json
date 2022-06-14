@@ -7,7 +7,7 @@
     "downloader",
     "3"
   ],
-  "repository": "https://github.com/shamilhabeebnelli/TG-MegaBot",
+  "repository": "https://github.com/kannadamoviesrequestbot/Tg-beeresh",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
